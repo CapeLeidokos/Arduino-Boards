@@ -160,9 +160,9 @@
 [submodule "libraries/Kaleidoscope-Testing"]
 	path = libraries/Kaleidoscope-Testing
 	url = https://github.com/noseglasses/Kaleidoscope-Testing.git
-[submodule "libraries/Kaleidoscope-Python-Wrapper"]
-	path = libraries/Kaleidoscope-Python-Wrapper
-	url = https://github.com/noseglasses/Kaleidoscope-Python-Wrapper.git
+[submodule "libraries/Kaleidoscope-Python"]
+	path = libraries/Kaleidoscope-Python
+	url = https://github.com/noseglasses/Kaleidoscope-Python.git
 [submodule "libraries/Kaleidoscope-CMake"]
 	path = libraries/Kaleidoscope-CMake
 	url = https://github.com/noseglasses/Kaleidoscope-CMake.git
