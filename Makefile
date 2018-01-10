@@ -12,8 +12,8 @@ update-submodules: checkout-submodules
 build-all: travis-test-all
 
 travis-test-all: travis-install-arduino
-	TRAVIS_ARDUINO_PATH=$(TRAVIS_ARDUINO_PATH) perl build-tools/test-recursively travis-test
-	TRAVIS_ARDUINO_PATH=$(TRAVIS_ARDUINO_PATH) perl build-tools/test-recursively cpplint
+	TRAVIS_ARDUINO_PATH=$(TRAVIS_ARDUINO_PATH) perl build-tools/quality/test-recursively travis-test
+	TRAVIS_ARDUINO_PATH=$(TRAVIS_ARDUINO_PATH) perl build-tools/quality/test-recursively cpplint
 
 checkout-submodules: git-pull
 	git submodule update --init --recursive
@@ -32,7 +32,7 @@ blindly-commit-updates: git-pull maintainer-update-submodules
 
 
 doxygen-generate:
-	doxygen etc/doxygen/doxygen.conf
+	doxygen build-tools/automation/etc/doxygen/doxygen.conf
 
 
 -include build-tools/makefiles/rules.mk
