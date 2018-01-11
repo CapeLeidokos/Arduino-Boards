@@ -154,12 +154,12 @@
 [submodule "libraries/Kaleidoscope-NumPad"]
 	path = libraries/Kaleidoscope-NumPad
 	url = https://github.com/Keyboardio/Kaleidoscope-NumPad
-[submodule "libraries/Kaleidoscope-Testing"]
-	path = libraries/Kaleidoscope-Testing
-	url = https://github.com/noseglasses/Kaleidoscope-Testing.git
-[submodule "libraries/Kaleidoscope-Python"]
-	path = libraries/Kaleidoscope-Python
-	url = https://github.com/noseglasses/Kaleidoscope-Python.git
+[submodule "libraries/Leidokos-Testing"]
+	path = libraries/Leidokos-Testing
+	url = https://github.com/noseglasses/Leidokos-Testing.git
+[submodule "libraries/Leidokos-Python"]
+	path = libraries/Leidokos-Python
+	url = https://github.com/noseglasses/Leidokos-Python.git
 [submodule "libraries/Leidokos-CMake"]
 	path = libraries/Leidokos-CMake
 	url = https://github.com/noseglasses/Leidokos-CMake.git
