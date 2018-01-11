@@ -160,9 +160,9 @@
 [submodule "libraries/Kaleidoscope-Python"]
 	path = libraries/Kaleidoscope-Python
 	url = https://github.com/noseglasses/Kaleidoscope-Python.git
-[submodule "libraries/Kaleidoscope-CMake"]
-	path = libraries/Kaleidoscope-CMake
-	url = https://github.com/noseglasses/Kaleidoscope-CMake.git
+[submodule "libraries/Leidokos-CMake"]
+	path = libraries/Leidokos-CMake
+	url = https://github.com/noseglasses/Leidokos-CMake.git
 [submodule "libraries/Kaleidoscope-Hardware-Virtual"]
 	path = libraries/Kaleidoscope-Hardware-Virtual
 	url = https://github.com/noseglasses/Kaleidoscope-Hardware-Virtual.git
