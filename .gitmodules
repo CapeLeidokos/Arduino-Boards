@@ -15,7 +15,7 @@
 	url = https://github.com/keyboardio/Arduino-HID
 [submodule "libraries/Kaleidoscope-OneShot"]
 	path = libraries/Kaleidoscope-OneShot
-	url = https://github.com/keyboardio/Kaleidoscope-OneShot
+	url = https://github.com/CapeLeidokos/Kaleidoscope-OneShot
 [submodule "libraries/Kaleidoscope-TapDance"]
 	path = libraries/Kaleidoscope-TapDance
 	url = https://github.com/keyboardio/Kaleidoscope-TapDance
@@ -105,7 +105,7 @@
 	url = https://github.com/keyboardio/Kaleidoscope-Model01-TestMode
 [submodule "libraries/Kaleidoscope"]
 	path = libraries/Kaleidoscope
-	url = https://github.com/keyboardio/Kaleidoscope
+	url = https://github.com/CapeLeidokos/Kaleidoscope
 [submodule "libraries/AtmegaScanner"]
 	path = libraries/AtmegaScanner
 	url = https://github.com/keyboardio/AtmegaScanner
@@ -147,7 +147,7 @@
 	url = https://github.com/keyboardio/Kaleidoscope-CycleTimeReport
 [submodule "libraries/Model01-Firmware"]
 	path = libraries/Model01-Firmware
-	url = https://github.com/Keyboardio/Model01-Firmware
+	url = https://github.com/CapeLeidokos/Model01-Firmware
 [submodule "libraries/Kaleidoscope-Hardware"]
 	path = libraries/Kaleidoscope-Hardware
 	url = https://github.com/Keyboardio/Kaleidoscope-Hardware/
