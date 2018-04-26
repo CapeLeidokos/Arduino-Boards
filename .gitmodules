@@ -105,7 +105,7 @@
 	url = https://github.com/keyboardio/Kaleidoscope-Model01-TestMode
 [submodule "libraries/Kaleidoscope"]
 	path = libraries/Kaleidoscope
-	url = https://github.com/noseglasses/Kaleidoscope
+	url = https://github.com/CapeLeidokos/Kaleidoscope
 [submodule "libraries/AtmegaScanner"]
 	path = libraries/AtmegaScanner
 	url = https://github.com/keyboardio/AtmegaScanner
@@ -159,13 +159,13 @@
 	url = https://github.com/Keyboardio/Kaleidoscope-NumPad
 [submodule "libraries/Kaleidoscope-Testing"]
 	path = libraries/Kaleidoscope-Testing
-	url = https://github.com/noseglasses/Kaleidoscope-Testing.git
+	url = https://github.com/CapeLeidokos/Kaleidoscope-Testing.git
 [submodule "libraries/Kaleidoscope-Python-Wrapper"]
 	path = libraries/Kaleidoscope-Python-Wrapper
-	url = https://github.com/noseglasses/Kaleidoscope-Python-Wrapper.git
+	url = https://github.com/CapeLeidokos/Kaleidoscope-Python-Wrapper.git
 [submodule "libraries/Kaleidoscope-CMake"]
 	path = libraries/Kaleidoscope-CMake
-	url = https://github.com/noseglasses/Kaleidoscope-CMake.git
+	url = https://github.com/CapeLeidokos/Kaleidoscope-CMake.git
 [submodule "libraries/Kaleidoscope-Hardware-Virtual"]
 	path = libraries/Kaleidoscope-Hardware-Virtual
 	url = https://github.com/cdisselkoen/Kaleidoscope-Hardware-Virtual.git
